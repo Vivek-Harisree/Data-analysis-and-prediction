@@ -2,7 +2,7 @@
 This repository contains a collection of projects focused on data analysis and predictive modeling. It showcases a variety of techniques and methodologies applied to real-world datasets.
 ## [Project 1: Breast Cancer Prediction](https://github.com/Vivek-Harisree/Data-analysis-and-prediction/tree/main/Breast%20Cancer%20Prediction)
 Breast Cancer Prediction is a classification task aimed at predicting the diagnosis of a breast mass as either malignant or benign. The dataset used for this prediction consists of features computed from a digitized image of a fine needle aspirate (FNA) of the breast mass. These features describe various characteristics of the cell nuclei present in the image.
-## [Project 2: Diamond price prediction]https://github.com/Vivek-Harisree/Data-analysis-and-prediction/tree/main/Diamond%20price%20prediction)
+## [Project 2: Diamond price prediction](https://github.com/Vivek-Harisree/Data-analysis-and-prediction/tree/main/Diamond%20price%20prediction)
 This project aims to predict the price of diamonds based on several physical and qualitative attributes using a machine learning model. The dataset includes various features that impact the value of a diamond, such as carat (weight), cut (quality), color (from J to D), clarity (from I1 to IF), and physical dimensions like length (x), width (y), depth (z), depth percentage, and table width. By analyzing these features, the model will predict the price of the diamond, which ranges from 
 18,823.
 
